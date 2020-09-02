@@ -1,0 +1,398 @@
+{
+    "monk": {
+        "color": "purple",
+        "str": {
+            "min": 18,
+            "max": 99,
+            "stars": 3
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 17,
+            "max": 18,
+            "stars": 2
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "cha": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        }
+    },
+    "bard": {
+        "color": "purple",
+        "str": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "dex": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "con": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "int": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "wis": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "cha": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        }
+    },
+    "barbarian": {
+        "color": "red",
+        "str": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 3
+        },
+        "con": {
+            "min": 17,
+            "max": 18,
+            "stars": 3
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "cha": {
+            "min": 14,
+            "max": 15,
+            "stars": 1
+        }
+    },
+    "warrior": {
+        "color": "red",
+        "str": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "cha": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        }
+    },
+    "sorceror": {
+        "color": "blue",
+        "str": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "int": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        },
+        "wis": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "cha": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        }
+    },
+    "wizard": {
+        "color": "blue",
+        "str": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "dex": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "con": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "int": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "wis": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "cha": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        }
+    },
+    "cleric": {
+        "color": "white",
+        "str": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        },
+        "cha": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        }
+    },
+    "paladin": {
+        "color": "white",
+        "str": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "dex": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "con": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "cha": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        }
+    },
+    "ranger": {
+        "color": "green",
+        "str": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "cha": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        }
+    },
+    "druid": {
+        "color": "green",
+        "str": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "int": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "wis": {
+            "min": 17,
+            "max": 18,
+            "stars": 2
+        },
+        "cha": {
+            "min": 17,
+            "max": 18,
+            "stars": 2
+        }
+    },
+    "thief": {
+        "color": "black",
+        "str": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "dex": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "con": {
+            "min": 14,
+            "max": 99,
+            "stars": 2
+        },
+        "int": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        },
+        "wis": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        },
+        "cha": {
+            "min": 17,
+            "max": 17,
+            "stars": 3
+        }
+    },
+    "rogue": {
+        "color": "black",
+        "str": {
+            "min": 16,
+            "max": 17,
+            "stars": 2
+        },
+        "dex": {
+            "min": 18,
+            "max": 18,
+            "stars": 4
+        },
+        "con": {
+            "min": 14,
+            "max": 15,
+            "stars": 2
+        },
+        "int": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "wis": {
+            "min": 14,
+            "max": 99,
+            "stars": 1
+        },
+        "cha": {
+            "min": 15,
+            "max": 16,
+            "stars": 2
+        }
+    }
+}

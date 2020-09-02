@@ -1,0 +1,434 @@
+{
+    "brawler": {
+        "description": "You've spent years as a punching bag in the local taverns, scrapping with other fighters for gold. You've developed a bit of a limp and often speak of yourself in the third person.",
+        "str": {
+            "color": "green",
+            "position": 2
+        },
+        "dex": {
+            "color": "red",
+            "position": 3
+        },
+        "con": {
+            "color": "blue",
+            "position": 2
+        },
+        "int": {
+            "color": "purple",
+            "position": 3
+        },
+        "wis": {
+            "color": "black",
+            "position": 3
+        },
+        "cha": {
+            "color": "white",
+            "position": 1
+        }
+    },
+    "savage": {
+        "description": "You were raised by wolves in the dense forests beyond the mountains. You can read the forest floor like a book and thrive in even the most desolate wastelands.",
+        "str": {
+            "color": "blue",
+            "position": 3
+        },
+        "dex": {
+            "color": "black",
+            "position": 1
+        },
+        "con": {
+            "color": "green",
+            "position": 2
+        },
+        "int": {
+            "color": "red",
+            "position": 3
+        },
+        "wis": {
+            "color": "white",
+            "position": 3
+        },
+        "cha": {
+            "color": "purple",
+            "position": 2
+        }
+    },
+    "craftsman": {
+        "description": "Your father was a blacksmith and you grew up in his shop. You discovered you had a natural gift at the anvil, but found the hunger for adventure stronger.",
+        "str": {
+            "color": "white",
+            "position": 1
+        },
+        "dex": {
+            "color": "blue",
+            "position": 3
+        },
+        "con": {
+            "color": "green",
+            "position": 3
+        },
+        "int": {
+            "color": "black",
+            "position": 2
+        },
+        "wis": {
+            "color": "purple",
+            "position": 3
+        },
+        "cha": {
+            "color": "red",
+            "position": 2
+        }
+    },
+    "lost soul": {
+        "description": "You returned after a lengthy voyage at sea to find your homestead deserted. A hastily packed cart lies abandoned on the old forest road. Your quest for answers drives you forward.",
+        "str": {
+            "color": "purple",
+            "position": 2
+        },
+        "dex": {
+            "color": "red",
+            "position": 1
+        },
+        "con": {
+            "color": "white",
+            "position": 2
+        },
+        "int": {
+            "color": "black",
+            "position": 3
+        },
+        "wis": {
+            "color": "blue",
+            "position": 3
+        },
+        "cha": {
+            "color": "green",
+            "position": 3
+        }
+    },
+    "persecuted": {
+        "description": "You still have no memory of anything prior to waking up in the ditch five years ago -- bloodied, and beaten with the word \"Traitor\" magically burned into your chest. It's time to look for answers.",
+        "str": {
+            "color": "red",
+            "position": 3
+        },
+        "dex": {
+            "color": "purple",
+            "position": 2
+        },
+        "con": {
+            "color": "white",
+            "position": 2
+        },
+        "int": {
+            "color": "green",
+            "position": 3
+        },
+        "wis": {
+            "color": "black",
+            "position": 3
+        },
+        "cha": {
+            "color": "blue",
+            "position": 1
+        }
+    },
+    "devoted": {
+        "description": "Your only son has been stricken with a grave illness. You have set out with the intent of doing everything in your power to save the life of your boy.",
+        "str": {
+            "color": "black",
+            "position": 2
+        },
+        "dex": {
+            "color": "green",
+            "position": 3
+        },
+        "con": {
+            "color": "red",
+            "position": 3
+        },
+        "int": {
+            "color": "white",
+            "position": 1
+        },
+        "wis": {
+            "color": "purple",
+            "position": 3
+        },
+        "cha": {
+            "color": "blue",
+            "position": 2
+        }
+    },
+    "exonerated": {
+        "description": "You were wrongfully accused of a gruesome murder as a youth, but have since been pardoned. With your new freedom, you now seek adventure, glory, and treasure.",
+        "str": {
+            "color": "blue",
+            "position": 1
+        },
+        "dex": {
+            "color": "black",
+            "position": 3
+        },
+        "con": {
+            "color": "white",
+            "position": 3
+        },
+        "int": {
+            "color": "purple",
+            "position": 3
+        },
+        "wis": {
+            "color": "red",
+            "position": 2
+        },
+        "cha": {
+            "color": "green",
+            "position": 2
+        }
+    },
+    "rift walker": {
+        "description": "You come from another dimension. You have a strange tattoo that glows bright blue when in close proximity to treasure.",
+        "str": {
+            "color": "red",
+            "position": 3
+        },
+        "dex": {
+            "color": "white",
+            "position": 2
+        },
+        "con": {
+            "color": "purple",
+            "position": 3
+        },
+        "int": {
+            "color": "green",
+            "position": 1
+        },
+        "wis": {
+            "color": "black",
+            "position": 3
+        },
+        "cha": {
+            "color": "blue",
+            "position": 2
+        }
+    },
+    "patrician": {
+        "description": "You come from a distinguished family. Material things have never been your concern. Life in your stronghold bores you, so you have decided to seek adventure.",
+        "str": {
+            "color": "black",
+            "position": 3
+        },
+        "dex": {
+            "color": "blue",
+            "position": 2
+        },
+        "con": {
+            "color": "green",
+            "position": 3
+        },
+        "int": {
+            "color": "white",
+            "position": 3
+        },
+        "wis": {
+            "color": "red",
+            "position": 1
+        },
+        "cha": {
+            "color": "purple",
+            "position": 2
+        }
+    },
+    "aristocrat": {
+        "description": "You are the offspring of a royal family and value the true sovereign bloodline. Now, you are in search of a fitting partner, who will increase your family's influence in the kingdom.",
+        "str": {
+            "color": "blue",
+            "position": 3
+        },
+        "dex": {
+            "color": "green",
+            "position": 2
+        },
+        "con": {
+            "color": "purple",
+            "position": 1
+        },
+        "int": {
+            "color": "red",
+            "position": 3
+        },
+        "wis": {
+            "color": "black",
+            "position": 2
+        },
+        "cha": {
+            "color": "white",
+            "position": 3
+        }
+    },
+    "mentor": {
+        "description": "You spent years as a master training the King's recruits for the Order of Knights. Now you've decided to leave your position and find your own brand of adventure.",
+        "str": {
+            "color": "black",
+            "position": 2
+        },
+        "dex": {
+            "color": "white",
+            "position": 3
+        },
+        "con": {
+            "color": "blue",
+            "position": 2
+        },
+        "int": {
+            "color": "red",
+            "position": 3
+        },
+        "wis": {
+            "color": "purple",
+            "position": 1
+        },
+        "cha": {
+            "color": "green",
+            "position": 3
+        }
+    },
+    "resilient": {
+        "description": "A deadly plague has decimated your village and left no survivors, except for you. You strike out looking for solae and a new home.",
+        "str": {
+            "color": "green",
+            "position": 3
+        },
+        "dex": {
+            "color": "white",
+            "position": 3
+        },
+        "con": {
+            "color": "black",
+            "position": 1
+        },
+        "int": {
+            "color": "purple",
+            "position": 2
+        },
+        "wis": {
+            "color": "blue",
+            "position": 2
+        },
+        "cha": {
+            "color": "red",
+            "position": 3
+        }
+    },
+    "street urchin": {
+        "description": "Abandoned at birth and raised in a barbaric orphanage until you escaped at age 7. You've grown up on the streets and learned the hard way how to be resourceful and survive any way you can.",
+        "str": {
+            "color": "purple",
+            "position": 2
+        },
+        "dex": {
+            "color": "blue",
+            "position": 3
+        },
+        "con": {
+            "color": "white",
+            "position": 2
+        },
+        "int": {
+            "color": "black",
+            "position": 1
+        },
+        "wis": {
+            "color": "red",
+            "position": 3
+        },
+        "cha": {
+            "color": "green",
+            "position": 3
+        }
+    },
+    "savant": {
+        "description": "When you left home, you apprenticed yourself to the best swordsman in the realm. You soon outmatched him and now seek to become known as the greatest hero in the kingdom.",
+        "str": {
+            "color": "red",
+            "position": 2
+        },
+        "dex": {
+            "color": "green",
+            "position": 3
+        },
+        "con": {
+            "color": "blue",
+            "position": 2
+        },
+        "int": {
+            "color": "white",
+            "position": 3
+        },
+        "wis": {
+            "color": "black",
+            "position": 3
+        },
+        "cha": {
+            "color": "purple",
+            "position": 1
+        }
+    },
+    "chosen one": {
+        "description": "You were born with a sacred mark. According to the prophecies, you are destined to have great power and influence in the kingdom.",
+        "str": {
+            "color": "white",
+            "position": 3
+        },
+        "dex": {
+            "color": "green",
+            "position": 1
+        },
+        "con": {
+            "color": "black",
+            "position": 2
+        },
+        "int": {
+            "color": "blue",
+            "position": 3
+        },
+        "wis": {
+            "color": "red",
+            "position": 3
+        },
+        "cha": {
+            "color": "purple",
+            "position": 2
+        }
+    },
+    "hunter": {
+        "description": "Your estranged father was a powerful wizard. After his death, you inherited an ancient scroll written in strange runes that seems to describe the location of a great treasure.",
+        "str": {
+            "color": "purple",
+            "position": 3
+        },
+        "dex": {
+            "color": "black",
+            "position": 2
+        },
+        "con": {
+            "color": "red",
+            "position": 1
+        },
+        "int": {
+            "color": "blue",
+            "position": 3
+        },
+        "wis": {
+            "color": "white",
+            "position": 2
+        },
+        "cha": {
+            "color": "green",
+            "position": 3
+        }
+    }
+}

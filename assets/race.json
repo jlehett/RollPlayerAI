@@ -1,0 +1,50 @@
+{
+    "human": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+    },
+    "halfling": {
+        "str": -2,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 2
+    },
+    "dragonkin": {
+        "str": 2,
+        "dex": -2,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+    },
+    "dwarf": {
+        "str": 0,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": -2
+    },
+    "elf": {
+        "str": 0,
+        "dex": 2,
+        "con": -2,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+    },
+    "orc": {
+        "str": 2,
+        "dex": 0,
+        "con": 0,
+        "int": -2,
+        "wis": 0,
+        "cha": 0
+    }
+}
